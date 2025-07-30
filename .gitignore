@@ -1,0 +1,7 @@
+### .gitignore
+.idea
+*.iml
+out
+gen
+/.idea/
+/.oca/
